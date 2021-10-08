@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luckybu11
 - 👀 I’m interested in modern technologies and popular science literature.
 - 🌱 I’m currently learning programming languages and technologies of creating a website.
-- 💞️ I’m looking to collaborate on a company where I can make acquaintances with interesting people and gain experience.
+- 💞️ I’m looking to collaborate on a company where I can make acquaintances and gain experience.
 - 📫 How to reach me ...
 
 <!---
